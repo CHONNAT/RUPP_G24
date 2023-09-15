@@ -15,6 +15,26 @@ program: ជាបណ្ដុំនៃcode
 
 4. Programming: is a the type of program 
 
+=== OOP ==
+1. Class & Object
+. class ជាពុម្ភ, គំរូ របស់ obj
+ a: class members
+   . field 
+     variable (scalar, array)
+   . Accessibility:
+     private
+     protected
+     public
+     internal 
+
+private
+     . property (public) : ជារបស់សម្គាល់ obj, ជា block of code ដើម្បី access private data
+        - Read-Write
+        - Read-Write only
+
+ 
+. object ជារបស់,វត្តុ,ទីកន្លែង... ដែលកើតឡើងពី class
+
 
 Semester 2
 
