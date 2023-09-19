@@ -10,5 +10,49 @@
 > Embedded Software
 > Real Time Software 
 
+*** Learn Objective ***
+
+
+*** Learn Outcome ***
+
+*** Software Engineering Overwiew ***
+. Software = code + libraries + docs
+.A program = is an executable
+.engineering = well-definded, scientific principles, methods
+.Software enginnering = developing software product using engineering mechanism.
+
+*** then what is software engineering in current situation ***
+
+
+*** Software Engineering evolution ***
+. Software Evolution
+- Change Rquest
+- Impact Analysis
+- Release Planning
+-System update
+-System Release
+
+
+*** Software Evolution Law ***
+. Prof. Manny Lehman (1974)
+1. Static-type (S-type)
+. Continuing change
+. Increasing complexity
+. Conservation of familiarity
+. Continuing growth
+.Reducing queality
+.Feedback systems
+.Self-regulation
+.Organizational stability
+
+2. Practical-type (P-type)
+3. Embedded-type (E-type)
+
+Q: if the a software do not used?
+22 -> 23
+
+
 * Top skills for software Engineering
+
+
 
