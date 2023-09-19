@@ -1,3 +1,12 @@
 *** Database System ***
 . a database
-.a data warehouse
+. a data warehouse: a database that stores larn amounts of historical data in a form.
+. Big data: is a tern used to describe data collections that very large (petabytes or larger) and complex.
+. Characteristics
+ - Volume
+ - Velocity
+ - Variety 
+
+
+*** Units of measure for data ***
+
