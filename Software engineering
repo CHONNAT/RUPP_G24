@@ -62,7 +62,15 @@ Q: if the a software do not used?
 .Dependability : safety, 
 .Security​ 
 2. Transitional
+.Portablility
+.Interoperability
+.Reusability
+.Adaptability
 3. Maintenance
+.Modularity : decomposable
+.Maintainability : modifiable
+.Flexibility : changeable
+.Scalability : growable
 
 
 * Top skills for software Engineering
